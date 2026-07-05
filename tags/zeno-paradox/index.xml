@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Zeno Paradox - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/zeno-paradox/</link>
+        <link>http://localhost:1313/tags/zeno-paradox/</link>
         <description>Zeno Paradox - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 26 Sep 2025 13:37:25 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/zeno-paradox/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 26 Sep 2025 13:37:25 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/zeno-paradox/" rel="self" type="application/rss+xml" /><item>
     <title>The Tortoise and The Hare --- Zeno Phenomenon (2)</title>
-    <link>http://linn-guo.github.io/2025/zeno3/</link>
+    <link>http://localhost:1313/2025/zeno3/</link>
     <pubDate>Fri, 26 Sep 2025 13:37:25 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2025/zeno3/</guid>
+    </author><guid>http://localhost:1313/2025/zeno3/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/zeno3_1.png" referrerpolicy="no-referrer">
             </div><h2 id="story-time-twist" class="headerLink">
@@ -18,10 +18,10 @@ You know the ending — the rabbit takes a nap, the tortoise keeps going, and…
 <p>But when we finished the story — yeah, you caught me — I just couldn&rsquo;t resist adding a twist: &quot; What if the very next day… they race again?&quot;</p>]]></description>
 </item><item>
     <title>Treasure Hunting ---Zeno Phenomenon (1)</title>
-    <link>http://linn-guo.github.io/2025/zeno1/</link>
+    <link>http://localhost:1313/2025/zeno1/</link>
     <pubDate>Tue, 23 Sep 2025 13:49:04 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2025/zeno1/</guid>
+    </author><guid>http://localhost:1313/2025/zeno1/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/zeno1_1.webp" referrerpolicy="no-referrer">
             </div><h2 id="story-time-twist" class="headerLink">

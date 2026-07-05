@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Piecewise Function - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/piecewise-function/</link>
+        <link>http://localhost:1313/tags/piecewise-function/</link>
         <description>Piecewise Function - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Mar 2022 21:08:11 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/piecewise-function/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Mar 2022 21:08:11 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/piecewise-function/" rel="self" type="application/rss+xml" /><item>
     <title>How can we find a suitable potential function of the conservative field on the different regions (2)?</title>
-    <link>http://linn-guo.github.io/2022/choices_potential_functions2/</link>
+    <link>http://localhost:1313/2022/choices_potential_functions2/</link>
     <pubDate>Tue, 08 Mar 2022 21:08:11 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/choices_potential_functions2/</guid>
+    </author><guid>http://localhost:1313/2022/choices_potential_functions2/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/choices_potential_functions2.webp" referrerpolicy="no-referrer">
             </div>]]></description>

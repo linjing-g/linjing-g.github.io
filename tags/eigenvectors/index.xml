@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Eigenvectors - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/eigenvectors/</link>
+        <link>http://localhost:1313/tags/eigenvectors/</link>
         <description>Eigenvectors - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 20 Aug 2022 08:58:56 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/eigenvectors/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 20 Aug 2022 08:58:56 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/eigenvectors/" rel="self" type="application/rss+xml" /><item>
     <title>Complex conjugates of eigenvectors and eigenvalues</title>
-    <link>http://linn-guo.github.io/2022/complexconjugate_eigenvectors/</link>
+    <link>http://localhost:1313/2022/complexconjugate_eigenvectors/</link>
     <pubDate>Sat, 20 Aug 2022 08:58:56 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/complexconjugate_eigenvectors/</guid>
+    </author><guid>http://localhost:1313/2022/complexconjugate_eigenvectors/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

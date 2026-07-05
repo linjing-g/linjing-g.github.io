@@ -1,29 +1,29 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Matrix - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/matrix/</link>
+        <link>http://localhost:1313/tags/matrix/</link>
         <description>Matrix - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 06 Aug 2022 17:05:15 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/matrix/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 06 Aug 2022 17:05:15 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/matrix/" rel="self" type="application/rss+xml" /><item>
     <title>Determinant and matrix operations(2)</title>
-    <link>http://linn-guo.github.io/2022/determinant_matrixoperation2/</link>
+    <link>http://localhost:1313/2022/determinant_matrixoperation2/</link>
     <pubDate>Sat, 06 Aug 2022 17:05:15 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/determinant_matrixoperation2/</guid>
+    </author><guid>http://localhost:1313/2022/determinant_matrixoperation2/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Determinant and matrix operations(1)</title>
-    <link>http://linn-guo.github.io/2022/determinant_and_matrixoperation/</link>
+    <link>http://localhost:1313/2022/determinant_and_matrixoperation/</link>
     <pubDate>Sat, 06 Aug 2022 17:01:21 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/determinant_and_matrixoperation/</guid>
+    </author><guid>http://localhost:1313/2022/determinant_and_matrixoperation/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Determinant and elementary row operation</title>
-    <link>http://linn-guo.github.io/2022/determinat_ero/</link>
+    <link>http://localhost:1313/2022/determinat_ero/</link>
     <pubDate>Sat, 06 Aug 2022 16:52:36 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/determinat_ero/</guid>
+    </author><guid>http://localhost:1313/2022/determinat_ero/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

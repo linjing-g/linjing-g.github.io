@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Line Integral - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/line-integral/</link>
+        <link>http://localhost:1313/tags/line-integral/</link>
         <description>Line Integral - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 23 Feb 2023 10:17:00 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/line-integral/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 23 Feb 2023 10:17:00 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/line-integral/" rel="self" type="application/rss+xml" /><item>
     <title>Similar example for Discussion of Green&#39;s Theorem (4)</title>
-    <link>http://linn-guo.github.io/2023/green_theorem_4/</link>
+    <link>http://localhost:1313/2023/green_theorem_4/</link>
     <pubDate>Thu, 23 Feb 2023 10:17:00 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2023/green_theorem_4/</guid>
+    </author><guid>http://localhost:1313/2023/green_theorem_4/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/green4.webp" referrerpolicy="no-referrer">
             </div><h2 id="question" class="headerLink">
@@ -19,46 +19,46 @@
 where $C$ is the rectangular curve with vertices $(2,3)$,$(-2,3)$,$(-2,-3)$,$(2,-3)$, taken in the anti-clockwise direction.</p>]]></description>
 </item><item>
     <title>How can we find a suitable potential function of the conservative field on the different regions (2)?</title>
-    <link>http://linn-guo.github.io/2022/choices_potential_functions2/</link>
+    <link>http://localhost:1313/2022/choices_potential_functions2/</link>
     <pubDate>Tue, 08 Mar 2022 21:08:11 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/choices_potential_functions2/</guid>
+    </author><guid>http://localhost:1313/2022/choices_potential_functions2/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/choices_potential_functions2.webp" referrerpolicy="no-referrer">
             </div>]]></description>
 </item><item>
     <title>How can we find a suitable potential function of the conservative field on the different regions (1)?</title>
-    <link>http://linn-guo.github.io/2022/choices_potential_functions1/</link>
+    <link>http://localhost:1313/2022/choices_potential_functions1/</link>
     <pubDate>Tue, 08 Mar 2022 20:57:40 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/choices_potential_functions1/</guid>
+    </author><guid>http://localhost:1313/2022/choices_potential_functions1/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/choices_potential_functions1.webp" referrerpolicy="no-referrer">
             </div>]]></description>
 </item><item>
     <title>Techniques of a particular type of line integral of vector fields</title>
-    <link>http://linn-guo.github.io/2022/zero_line_integral/</link>
+    <link>http://localhost:1313/2022/zero_line_integral/</link>
     <pubDate>Tue, 08 Mar 2022 19:58:03 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/zero_line_integral/</guid>
+    </author><guid>http://localhost:1313/2022/zero_line_integral/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/zero_example_line_integral.webp" referrerpolicy="no-referrer">
             </div>]]></description>
 </item><item>
     <title>Different perspectives of Line integral of a vector field in parts</title>
-    <link>http://linn-guo.github.io/2022/line_integral/</link>
+    <link>http://localhost:1313/2022/line_integral/</link>
     <pubDate>Thu, 24 Feb 2022 21:35:26 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/line_integral/</guid>
+    </author><guid>http://localhost:1313/2022/line_integral/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/line_integral_of_vector_field.webp" referrerpolicy="no-referrer">
             </div>]]></description>
 </item><item>
     <title>Discussion of Green&#39;s Theorem (3)</title>
-    <link>http://linn-guo.github.io/2022/green_theorem_3/</link>
+    <link>http://localhost:1313/2022/green_theorem_3/</link>
     <pubDate>Sat, 01 Jan 2022 17:31:11 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/green_theorem_3/</guid>
+    </author><guid>http://localhost:1313/2022/green_theorem_3/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/green_theorem_3.webp" referrerpolicy="no-referrer">
             </div><h2 id="question" class="headerLink">
@@ -69,10 +69,10 @@ where $C$ is the rectangular curve with vertices $(2,3)$,$(-2,3)$,$(-2,-3)$,$(2,
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.3074em;vertical-align:-0.936em;"></span><span class="mop"><span class="mop op-symbol large-op" style="margin-right:0.44445em;position:relative;top:-0.0011em;">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:-0.4336em;"><span style="top:-1.7881em;margin-left:-0.4445em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">C</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9119em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">π</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7401em;"><span style="top:-2.989em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7401em;"><span style="top:-2.989em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mclose">)</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.936em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mpunct">,</span></span></span></span></span><p>where $C_1$ is the circle $(x-1)^2+y^2=9$, traced in the anti-clockwise direction.</p>]]></description>
 </item><item>
     <title>Discussion of Green&#39;s Theorem (2)</title>
-    <link>http://linn-guo.github.io/2022/green_theorem_2/</link>
+    <link>http://localhost:1313/2022/green_theorem_2/</link>
     <pubDate>Sat, 01 Jan 2022 09:31:11 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/green_theorem_2/</guid>
+    </author><guid>http://localhost:1313/2022/green_theorem_2/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/green_theorem_22.webp" referrerpolicy="no-referrer">
             </div><h2 id="question" class="headerLink">
@@ -83,10 +83,10 @@ where $C$ is the rectangular curve with vertices $(2,3)$,$(-2,3)$,$(-2,-3)$,$(2,
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.3074em;vertical-align:-0.936em;"></span><span class="mop"><span class="mop op-symbol large-op" style="margin-right:0.44445em;position:relative;top:-0.0011em;">∫</span><span class="msupsub"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:-0.4336em;"><span style="top:-1.7881em;margin-left:-0.4445em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight" style="margin-right:0.07153em;">C</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.9119em;"><span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.3714em;"><span style="top:-2.314em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">π</span><span class="mopen">(</span><span class="mord"><span class="mord mathnormal">x</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7401em;"><span style="top:-2.989em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord"><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7401em;"><span style="top:-2.989em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">2</span></span></span></span></span></span></span></span><span class="mclose">)</span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord mathnormal">x</span><span class="mord mathnormal">d</span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mord mathnormal" style="margin-right:0.03588em;">y</span><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.936em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mpunct">,</span></span></span></span></span><p>where $C$ is a unit circle with centre $(0,0)$, traced in the anti-clockwise direction.</p>]]></description>
 </item><item>
     <title>Typical application of Green&#39;s Theorem (1)</title>
-    <link>http://linn-guo.github.io/2021/green_theorem_1/</link>
+    <link>http://localhost:1313/2021/green_theorem_1/</link>
     <pubDate>Fri, 31 Dec 2021 11:23:42 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2021/green_theorem_1/</guid>
+    </author><guid>http://localhost:1313/2021/green_theorem_1/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/Green_theorem_1.webp" referrerpolicy="no-referrer">
             </div>]]></description>

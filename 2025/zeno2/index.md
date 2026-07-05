@@ -46,9 +46,11 @@ That's why, within a finite amount of time,
 he can't actually reach the destination.
 
 ### Math Explanation
-- Distance series: $$ \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \dots = \frac{ \frac{1}{2}}{1- \frac{1}{2}}=1 ,$$ convergent.
-- Speed: shrinking step size, approaching $0$.
-- Conclusion: finite distance, but infinite time → destination never reached.
+- we know the infinite series: $$ \frac{1}{2} + \frac{1}{4} + \frac{1}{8} + \dots = \frac{ \frac{1}{2}}{1- \frac{1}{2}}=1 ,$$ convergent.
+- For any (finite) natural number $n$, the total distance he walked over $n$ days is:
+$$ \frac{1}{2}+\frac{1}{4}+\frac{1}{8}+\cdots+\frac{1}{2^n} < 1.$$
+
+- Conclusion: destination is never reached within a finite amount of time.
 
 ## Easter Egg
 And guess what? This isn't just a math puzzle — it's an ancient idea too!

@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Vectors - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/vectors/</link>
+        <link>http://localhost:1313/tags/vectors/</link>
         <description>Vectors - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 24 Sep 2022 17:12:54 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/vectors/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 24 Sep 2022 17:12:54 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/vectors/" rel="self" type="application/rss+xml" /><item>
     <title>Determine whether three vectors lie on the same plane</title>
-    <link>http://linn-guo.github.io/2022/whether_3vectorsinoneplane/</link>
+    <link>http://localhost:1313/2022/whether_3vectorsinoneplane/</link>
     <pubDate>Sat, 24 Sep 2022 17:12:54 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/whether_3vectorsinoneplane/</guid>
+    </author><guid>http://localhost:1313/2022/whether_3vectorsinoneplane/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

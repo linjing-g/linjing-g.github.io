@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Ellipse - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/ellipse/</link>
+        <link>http://localhost:1313/tags/ellipse/</link>
         <description>Ellipse - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 10 Oct 2022 11:31:23 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/ellipse/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 10 Oct 2022 11:31:23 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/ellipse/" rel="self" type="application/rss+xml" /><item>
     <title>A discussion about intersections of ellipse and axes</title>
-    <link>http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/</link>
+    <link>http://localhost:1313/2022/discussion_parametricequation_ellipse/</link>
     <pubDate>Mon, 10 Oct 2022 11:31:23 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/discussion_parametricequation_ellipse/</guid>
+    </author><guid>http://localhost:1313/2022/discussion_parametricequation_ellipse/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

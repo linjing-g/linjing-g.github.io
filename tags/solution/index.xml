@@ -1,22 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Solution - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/solution/</link>
+        <link>http://localhost:1313/tags/solution/</link>
         <description>Solution - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 27 Sep 2022 16:50:46 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/solution/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 27 Sep 2022 16:50:46 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/solution/" rel="self" type="application/rss+xml" /><item>
     <title>How to prove using a generalized eigenvector can construct a solution of SDE (2)?</title>
-    <link>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector2/</link>
+    <link>http://localhost:1313/2022/secondsolution_generalizedeigenvector2/</link>
     <pubDate>Tue, 27 Sep 2022 16:50:46 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector2/</guid>
+    </author><guid>http://localhost:1313/2022/secondsolution_generalizedeigenvector2/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>How to prove using a generalized eigenvector can construct a solution of SDE (1)?</title>
-    <link>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector1/</link>
+    <link>http://localhost:1313/2022/secondsolution_generalizedeigenvector1/</link>
     <pubDate>Sat, 20 Aug 2022 14:42:47 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/secondsolution_generalizedeigenvector1/</guid>
+    </author><guid>http://localhost:1313/2022/secondsolution_generalizedeigenvector1/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

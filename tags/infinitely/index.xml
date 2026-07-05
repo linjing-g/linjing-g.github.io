@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Infinitely - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/infinitely/</link>
+        <link>http://localhost:1313/tags/infinitely/</link>
         <description>Infinitely - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Mar 2022 20:19:13 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/infinitely/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 08 Mar 2022 20:19:13 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/infinitely/" rel="self" type="application/rss+xml" /><item>
     <title>How to prove there are infinitely many generalized eigenvectors of A?</title>
-    <link>http://linn-guo.github.io/2022/generalized_eigenvector/</link>
+    <link>http://localhost:1313/2022/generalized_eigenvector/</link>
     <pubDate>Tue, 08 Mar 2022 20:19:13 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/generalized_eigenvector/</guid>
+    </author><guid>http://localhost:1313/2022/generalized_eigenvector/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/infinitely_generalised_eigenvector.webp" referrerpolicy="no-referrer">
             </div>]]></description>

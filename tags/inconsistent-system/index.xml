@@ -1,15 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Inconsistent System - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://linn-guo.github.io/tags/inconsistent-system/</link>
+        <link>http://localhost:1313/tags/inconsistent-system/</link>
         <description>Inconsistent System - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (Lynn G)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Feb 2022 09:37:26 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/inconsistent-system/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (Lynn G)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 02 Feb 2022 09:37:26 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/inconsistent-system/" rel="self" type="application/rss+xml" /><item>
     <title>Proof of least squares solutions</title>
-    <link>http://linn-guo.github.io/2022/least_squares_solutions/</link>
+    <link>http://localhost:1313/2022/least_squares_solutions/</link>
     <pubDate>Wed, 02 Feb 2022 09:37:26 &#43;0800</pubDate><author>
         <name>Lynn G</name>
-    </author><guid>http://linn-guo.github.io/2022/least_squares_solutions/</guid>
+    </author><guid>http://localhost:1313/2022/least_squares_solutions/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/img/least_squares_solutions.webp" referrerpolicy="no-referrer">
             </div>]]></description>
