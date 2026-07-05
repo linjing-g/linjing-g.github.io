@@ -1,36 +1,36 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Categories - Category - Lynn G&#39;s Homepage</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>http://linn-guo.github.io/categories/</link>
         <description>Categories - Category - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (LinJing)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (LinJing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 27 Oct 2025 18:50:28 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/categories/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (LinJing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 27 Oct 2025 18:50:28 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/" rel="self" type="application/rss+xml" /><item>
     <title>Fun Math</title>
-    <link>http://localhost:1313/categories/fun-math/</link>
+    <link>http://linn-guo.github.io/categories/fun-math/</link>
     <pubDate>Mon, 27 Oct 2025 18:50:28 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/categories/fun-math/</guid>
+    </author><guid>http://linn-guo.github.io/categories/fun-math/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Calculus</title>
-    <link>http://localhost:1313/categories/calculus/</link>
+    <link>http://linn-guo.github.io/categories/calculus/</link>
     <pubDate>Thu, 23 Feb 2023 10:17:00 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/categories/calculus/</guid>
+    </author><guid>http://linn-guo.github.io/categories/calculus/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>IB/A-Level Math</title>
-    <link>http://localhost:1313/categories/ib/a-level-math/</link>
+    <link>http://linn-guo.github.io/categories/ib/a-level-math/</link>
     <pubDate>Mon, 10 Oct 2022 11:38:32 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/categories/ib/a-level-math/</guid>
+    </author><guid>http://linn-guo.github.io/categories/ib/a-level-math/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Linear Algebra</title>
-    <link>http://localhost:1313/categories/linear-algebra/</link>
+    <link>http://linn-guo.github.io/categories/linear-algebra/</link>
     <pubDate>Tue, 27 Sep 2022 16:50:46 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/categories/linear-algebra/</guid>
+    </author><guid>http://linn-guo.github.io/categories/linear-algebra/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>

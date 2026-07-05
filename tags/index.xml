@@ -1,78 +1,78 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>Tags - Tag - Lynn G&#39;s Homepage</title>
-        <link>http://localhost:1313/tags/</link>
+        <link>http://linn-guo.github.io/tags/</link>
         <description>Tags - Tag - Lynn G&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (LinJing)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (LinJing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 27 Oct 2025 18:50:28 &#43;0800</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (LinJing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 27 Oct 2025 18:50:28 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Differential Geometry</title>
-    <link>http://localhost:1313/tags/differential-geometry/</link>
+    <link>http://linn-guo.github.io/tags/differential-geometry/</link>
     <pubDate>Mon, 27 Oct 2025 18:50:28 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/tags/differential-geometry/</guid>
+    </author><guid>http://linn-guo.github.io/tags/differential-geometry/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Gauss</title>
-    <link>http://localhost:1313/tags/gauss/</link>
+    <link>http://linn-guo.github.io/tags/gauss/</link>
     <pubDate>Mon, 27 Oct 2025 18:50:28 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/tags/gauss/</guid>
+    </author><guid>http://linn-guo.github.io/tags/gauss/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Gaussian Curvature</title>
-    <link>http://localhost:1313/tags/gaussian-curvature/</link>
+    <link>http://linn-guo.github.io/tags/gaussian-curvature/</link>
     <pubDate>Mon, 27 Oct 2025 18:50:28 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/tags/gaussian-curvature/</guid>
+    </author><guid>http://linn-guo.github.io/tags/gaussian-curvature/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Pizza Fold</title>
-    <link>http://localhost:1313/tags/pizza-fold/</link>
+    <link>http://linn-guo.github.io/tags/pizza-fold/</link>
     <pubDate>Mon, 27 Oct 2025 18:50:28 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/tags/pizza-fold/</guid>
+    </author><guid>http://linn-guo.github.io/tags/pizza-fold/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Remarkable Theorem</title>
-    <link>http://localhost:1313/tags/remarkable-theorem/</link>
+    <link>http://linn-guo.github.io/tags/remarkable-theorem/</link>
     <pubDate>Mon, 27 Oct 2025 18:50:28 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/tags/remarkable-theorem/</guid>
+    </author><guid>http://linn-guo.github.io/tags/remarkable-theorem/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Big Kids</title>
-    <link>http://localhost:1313/tags/big-kids/</link>
+    <link>http://linn-guo.github.io/tags/big-kids/</link>
     <pubDate>Fri, 26 Sep 2025 13:37:25 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/tags/big-kids/</guid>
+    </author><guid>http://linn-guo.github.io/tags/big-kids/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Limits</title>
-    <link>http://localhost:1313/tags/limits/</link>
+    <link>http://linn-guo.github.io/tags/limits/</link>
     <pubDate>Fri, 26 Sep 2025 13:37:25 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/tags/limits/</guid>
+    </author><guid>http://linn-guo.github.io/tags/limits/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Little Kids</title>
-    <link>http://localhost:1313/tags/little-kids/</link>
+    <link>http://linn-guo.github.io/tags/little-kids/</link>
     <pubDate>Fri, 26 Sep 2025 13:37:25 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/tags/little-kids/</guid>
+    </author><guid>http://linn-guo.github.io/tags/little-kids/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Series</title>
-    <link>http://localhost:1313/tags/series/</link>
+    <link>http://linn-guo.github.io/tags/series/</link>
     <pubDate>Fri, 26 Sep 2025 13:37:25 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/tags/series/</guid>
+    </author><guid>http://linn-guo.github.io/tags/series/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Zeno Paradox</title>
-    <link>http://localhost:1313/tags/zeno-paradox/</link>
+    <link>http://linn-guo.github.io/tags/zeno-paradox/</link>
     <pubDate>Fri, 26 Sep 2025 13:37:25 &#43;0800</pubDate><author>
         <name>LinJing</name>
-    </author><guid>http://localhost:1313/tags/zeno-paradox/</guid>
+    </author><guid>http://linn-guo.github.io/tags/zeno-paradox/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
