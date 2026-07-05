@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Linear Algebra - Category - Lynn G&#39;s Homepage</title>
+        <title>Linear Algebra - Category - LinJing&#39;s Homepage</title>
         <link>http://linn-guo.github.io/categories/linear-algebra/</link>
-        <description>Linear Algebra - Category - Lynn G&#39;s Homepage</description>
+        <description>Linear Algebra - Category - LinJing&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (LinJing)</managingEditor>
             <webMaster>linnguo2018@gmail.com (LinJing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 27 Sep 2022 16:50:46 &#43;0800</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/linear-algebra/" rel="self" type="application/rss+xml" /><item>
     <title>How to prove using a generalized eigenvector can construct a solution of SDE (2)?</title>
