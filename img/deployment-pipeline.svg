@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="120" viewBox="0 0 720 120" role="img" aria-label="Pipeline: train, convert, model.json plus weight shards, browser, prediction" font-family="ui-monospace, monospace">
+        <defs>
+          <marker id="arr3" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+            <path d="M0,0 L6,3 L0,6" fill="none" stroke="#9AA3B5" stroke-width="1.4"></path>
+          </marker>
+        </defs>
+        <g font-family="IBM Plex Mono, monospace" font-size="12" font-weight="600">
+          <rect x="10" y="38" width="98" height="44" rx="9" fill="#FFFFFF" stroke="#E2E6ED"></rect><text x="59" y="65" text-anchor="middle" fill="#171B26">train</text>
+          <line x1="112" y1="60" x2="142" y2="60" stroke="#9AA3B5" stroke-width="1.4" marker-end="url(#arr3)"></line>
+          <rect x="146" y="38" width="108" height="44" rx="9" fill="#FFFFFF" stroke="#E2E6ED"></rect><text x="200" y="65" text-anchor="middle" fill="#171B26">convert</text>
+          <line x1="258" y1="60" x2="288" y2="60" stroke="#9AA3B5" stroke-width="1.4" marker-end="url(#arr3)"></line>
+          <rect x="292" y="30" width="160" height="60" rx="9" fill="#EDE8FE" stroke="#7C5CFC"></rect>
+          <text x="372" y="55" text-anchor="middle" fill="#5A3FD6">model.json</text>
+          <text x="372" y="74" text-anchor="middle" fill="#5A3FD6" font-size="11">+ weight shards</text>
+          <line x1="456" y1="60" x2="486" y2="60" stroke="#9AA3B5" stroke-width="1.4" marker-end="url(#arr3)"></line>
+          <rect x="490" y="38" width="102" height="44" rx="9" fill="#E4EBFE" stroke="#3D6EF7"></rect><text x="541" y="65" text-anchor="middle" fill="#2A4FC2">browser</text>
+          <line x1="596" y1="60" x2="626" y2="60" stroke="#9AA3B5" stroke-width="1.4" marker-end="url(#arr3)"></line>
+          <rect x="630" y="38" width="82" height="44" rx="9" fill="#FFE9DB" stroke="#F4711F"></rect><text x="671" y="65" text-anchor="middle" fill="#B14E0E">🎯</text>
+        </g>
+      </svg>

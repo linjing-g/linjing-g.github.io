@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="190" viewBox="0 0 720 190" role="img" aria-label="Diagram showing tensors growing from 1D vector to 2D matrix to 3D image tensor to 4D batch" font-family="ui-monospace, monospace">
+        <defs>
+          <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+            <path d="M0,0 L6,3 L0,6" fill="none" stroke="#9AA3B5" stroke-width="1.4"></path>
+          </marker>
+        </defs>
+        
+        <g>
+          <rect x="20" y="78" width="22" height="22" rx="4" fill="#FFE9DB" stroke="#F4711F"></rect>
+          <rect x="46" y="78" width="22" height="22" rx="4" fill="#FFE9DB" stroke="#F4711F"></rect>
+          <rect x="72" y="78" width="22" height="22" rx="4" fill="#FFE9DB" stroke="#F4711F"></rect>
+          <text x="57" y="130" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="12" fill="#171B26" font-weight="600">1D</text>
+          <text x="57" y="148" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10.5" fill="#5D6472">vector</text>
+        </g>
+        <line x1="112" y1="89" x2="150" y2="89" stroke="#9AA3B5" stroke-width="1.4" marker-end="url(#arr)"></line>
+        
+        <g>
+          <g fill="#E4EBFE" stroke="#3D6EF7">
+            <rect x="168" y="52" width="22" height="22" rx="4"></rect><rect x="194" y="52" width="22" height="22" rx="4"></rect><rect x="220" y="52" width="22" height="22" rx="4"></rect>
+            <rect x="168" y="78" width="22" height="22" rx="4"></rect><rect x="194" y="78" width="22" height="22" rx="4"></rect><rect x="220" y="78" width="22" height="22" rx="4"></rect>
+            <rect x="168" y="104" width="22" height="22" rx="4"></rect><rect x="194" y="104" width="22" height="22" rx="4"></rect><rect x="220" y="104" width="22" height="22" rx="4"></rect>
+          </g>
+          <text x="205" y="150" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="12" fill="#171B26" font-weight="600">2D</text>
+          <text x="205" y="168" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10.5" fill="#5D6472">matrix</text>
+        </g>
+        <line x1="260" y1="89" x2="298" y2="89" stroke="#9AA3B5" stroke-width="1.4" marker-end="url(#arr)"></line>
+        
+        <g>
+          <g fill="#EDE8FE" stroke="#7C5CFC" opacity="0.45"><rect x="336" y="40" width="70" height="70" rx="6"></rect></g>
+          <g fill="#EDE8FE" stroke="#7C5CFC" opacity="0.7"><rect x="326" y="50" width="70" height="70" rx="6"></rect></g>
+          <g fill="#EDE8FE" stroke="#7C5CFC"><rect x="316" y="60" width="70" height="70" rx="6"></rect></g>
+          <text x="361" y="150" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="12" fill="#171B26" font-weight="600">3D</text>
+          <text x="361" y="168" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10.5" fill="#5D6472">image (h×w×rgb)</text>
+        </g>
+        <line x1="422" y1="89" x2="460" y2="89" stroke="#9AA3B5" stroke-width="1.4" marker-end="url(#arr)"></line>
+        
+        <g>
+          <g opacity="0.4"><rect x="500" y="36" width="58" height="58" rx="6" fill="#FFE9DB" stroke="#F4711F"></rect></g>
+          <g opacity="0.6"><rect x="512" y="48" width="58" height="58" rx="6" fill="#FFE9DB" stroke="#F4711F"></rect></g>
+          <g opacity="0.8"><rect x="524" y="60" width="58" height="58" rx="6" fill="#FFE9DB" stroke="#F4711F"></rect></g>
+          <rect x="536" y="72" width="58" height="58" rx="6" fill="#FFE9DB" stroke="#F4711F"></rect>
+          <text x="548" y="150" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="12" fill="#171B26" font-weight="600">4D</text>
+          <text x="548" y="168" text-anchor="middle" font-family="IBM Plex Mono, monospace" font-size="10.5" fill="#5D6472">batch of images</text>
+        </g>
+      </svg>
