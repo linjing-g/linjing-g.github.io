@@ -47,7 +47,7 @@ Here's the genuinely clever part. When your code says "multiply these matrices,"
 | CPU     | The universal fallback | Compatibility, always works |
 | Node.js | Native TensorFlow, no browser needed | Servers |
 
-### Idea 4 — Lifecycle: it's a loop, not just a line
+### Idea 4 — Lifecycle: a loop, not just a line
 
 Frame it as: you'd expect a lifecycle to be a straight line — train, convert, deploy, done. TensorFlow.js makes it a loop. Deployment isn't the end, because the deployed model can keep training on live user data, save its improved self to browser storage, and pick up where it left off next visit. The point of the section becomes: the browser isn't just the destination, it's also a training ground.
 
