@@ -9,7 +9,7 @@ But how does it actually pull this off? Let’s take a look under the hood.
 
 ## Four big ideas, one clever library
 
-Everything TensorFlow.js does hangs off four core concepts. Get these, and the rest of the architecture snaps into focus.
+Everything TensorFlow.js does hang off four core concepts. Get these, and the rest of the architecture snaps into focus.
 
 ![Four idea cards: 01 Data — everything is a tensor; 02 API — two ways in (Core Ops and Layers API); 03 Execution — multiple backends; 04 Lifecycle — cradle to deploy](/img/four-ideas.png) 
 
@@ -25,54 +25,35 @@ They're **immutable** — every operation creates a new tensor rather than modif
 
 ### Idea 2 — APIs: how TensorFlow.js defines the computation
 
-Here's the genuinely clever part. When your code says "multiply these matrices," TensorFlow.js doesn't have one way to do that — it has **five**. A backend selector inspects the environment and routes every operation to the fastest engine available, falling back gracefully when fancy hardware isn't around.
+How do you tell a tensor what to do? TensorFlow.js gives you two levels of vocabulary. The **Ops API** contains the verbs of numerical computing: add, multiply, reshape. The **Layers API**, modeled closely on Keras, combines those operations into larger building blocks for neural networks. Use Ops when you want the individual moves; use Layers when you want to assemble the model.
 
-![Model code flows into the backend selector, which routes to WebGPU, WebGL, WASM, or CPU, producing predictions](/img/backend-selector.svg)
+TensorFlow.js supports **eager execution**: call an operation and the computation starts immediately. You can inspect results as you go, using ordinary JavaScript loops and conditions. The API describes **what** should happen, but says nothing about the machine that will make it happen. So where actually performs the calculation?
+
+*Two levels of vocabulary, one computation underneath.*
+
+### Idea 3 — Backends: where the computation runs
+
+Here's the genuinely clever part. When your code says "multiply these matrices," TensorFlow.js doesn't have one place to do that — it has **five**. A backend selector inspects the environment and routes every operation to the fastest engine available, falling back gracefully when fancy hardware isn't around.
+
+![Flowchart: model code flows into the backend selector, which routes to WebGPU, WebGL, WASM, or CPU, producing predictions](/img/backend-selector.svg)
 
 *Write the model once. The selector picks the engine at runtime.*
 
 | Backend | Think of it as | Best for |
-|---|---|---|
-| WebGPU | Modern GPU compute, no disguises | The fastest option, where supported |
-| WebGL | A GPU smuggled in via graphics shaders | Most browsers today |
-| WASM | A supercharged CPU | Small models, wide compatibility |
-| CPU | The universal fallback | Always works |
+|---------|----------------|----------|
+| WebGPU  | Modern GPU compute, no disguises | The fastest option, where supported |
+| WebGL   | A GPU smuggled in via graphics shaders | Most browsers today |
+| WASM    | A supercharged CPU | Small models, wide compatibility |
+| CPU     | The universal fallback | Compatibility, always works |
 | Node.js | Native TensorFlow, no browser needed | Servers |
 
-### Idea 3 — Backends: where the computation runs
+### Idea 4 — Lifecycle: it's a loop, not just a line
 
-Here's the rite of passage every TensorFlow.js developer goes through: your demo runs beautifully for two minutes, then your GPU memory quietly fills up and the tab keels over.
-
-Why? Because tensors **aren't automatically garbage collected**. Many of them live in GPU memory, which JavaScript's garbage collector can't see. Every intermediate tensor you create sticks around until you explicitly let it go.
-
-The fix is delightfully simple: wrap temporary work in `tf.tidy()`, and it sweeps up every intermediate tensor when the function returns. For tensors you manage by hand, call `dispose()` when you're done.
-
-```javascript
-// Without tidy: leaks `a` and `b` into GPU memory 
-// With tidy: intermediates are cleaned up automatically 
-const result = tf.tidy(() => {
-  const a = tf.tensor([1, 2, 3]);
-  const b = a.square();   // intermediate — swept up
-  return b.sum();          // survives the tidy
-});
-```
-
-> **Rule of thumb:** if you created a tensor and didn't return it, someone has to clean it up — and that someone is `tf.tidy()`, or it's you.
-
-
-### Idea 4 — Lifecycle: load, train, manage, save, and deploy
-
-You've got two paths to a working model. Build and train it **entirely in JavaScript**, or **import a trained TensorFlow or Keras model** from the Python world. Either way, after conversion a deployed model is refreshingly boring: a `model.json` file describing the architecture, plus binary weight shards. Static files. Host them anywhere you'd host an image.
+Frame it as: you'd expect a lifecycle to be a straight line — train, convert, deploy, done. TensorFlow.js makes it a loop. Deployment isn't the end, because the deployed model can keep training on live user data, save its improved self to browser storage, and pick up where it left off next visit. The point of the section becomes: the browser isn't just the destination, it's also a training ground.
 
 ![Pipeline: train, convert, model.json plus weight shards, browser, prediction](/img/deployment-pipeline.svg)
 
 *Train anywhere → convert once → serve as static files → predict in the tab.*
-
-
-## Takeaway: how it works under the hood
-
-
-TensorFlow.js isn’t just “TensorFlow in JavaScript.” It’s a system where each layer has a clear responsibility. Tensors represent data, the APIs describe computations, backends execute those computations on available hardware, and lifecycle tools manage models from training to deployment. Together, these layers let you write a few lines of JavaScript while TensorFlow.js handles the messy details of memory management, hardware acceleration, and model execution behind the scenes.
 
 ## Easter egg: where Teachable Machine fits
 
