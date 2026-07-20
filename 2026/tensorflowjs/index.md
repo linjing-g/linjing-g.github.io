@@ -53,14 +53,11 @@ Frame it as: you'd expect a lifecycle to be a straight line — train, convert, 
 
 ![Pipeline: train, convert, model.json plus weight shards, browser, prediction](/img/deployment-pipeline.svg)
 
-*Train anywhere → convert once → serve as static files → predict in the tab.*
-
 ## Easter egg: where Teachable Machine fits
 
-Teachable Machine is one of those tools. It hides almost all of TensorFlow.js behind a friendly interface: you collect examples, label classes, and click Train. Behind those buttons, TensorFlow.js converts your data into tensors, fine-tunes a pre-trained model, executes the computation using the browser’s available backend, and exports a model.json file together with its weights. That's how the magic works!
+Google’s Teachable Machine (TM) is where these four ideas really come alive. Every click, class, and training run sets the TensorFlow.js engine whirring behind the scenes. So, how does that actually work under the hood of TM?
 
-
-Next, let's see another black box behind TM - transform learning! 
+Stay tuned for the next post!
 
 Cheers!
 
