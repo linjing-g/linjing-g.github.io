@@ -4,7 +4,17 @@
         <link>http://linn-guo.github.io/categories/ai/</link>
         <description>AI - Category - LinJing&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (LinJing)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (LinJing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 16 Jul 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/ai/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (LinJing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Jul 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://linn-guo.github.io/categories/ai/" rel="self" type="application/rss+xml" /><item>
+    <title>Watching TensorFlow.js Come Alive --- A Peek Inside Teachable Machine</title>
+    <link>http://linn-guo.github.io/2026/teachable-machine/</link>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>LinJing</name>
+    </author><guid>http://linn-guo.github.io/2026/teachable-machine/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/img/TM.png" referrerpolicy="no-referrer">
+            </div><h2 id="a-machine-you-can-teach-in-your-browser" class="headerLink">
+    <a href="#a-machine-you-can-teach-in-your-browser" class="header-mark"></a>22 A Machine You Can Teach in Your Browser</h2>]]></description>
+</item><item>
     <title>A Friendly Dive into How TensorFlow.js Actually Works</title>
     <link>http://linn-guo.github.io/2026/tensorflowjs/</link>
     <pubDate>Thu, 16 Jul 2026 00:00:00 &#43;0000</pubDate><author>

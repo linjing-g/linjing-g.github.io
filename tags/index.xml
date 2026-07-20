@@ -4,24 +4,31 @@
         <link>http://linn-guo.github.io/tags/</link>
         <description>Tags - Tag - LinJing&#39;s Homepage</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>linnguo2018@gmail.com (LinJing)</managingEditor>
-            <webMaster>linnguo2018@gmail.com (LinJing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 16 Jul 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>linnguo2018@gmail.com (LinJing)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 20 Jul 2026 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://linn-guo.github.io/tags/" rel="self" type="application/rss+xml" /><item>
     <title>Javascript</title>
     <link>http://linn-guo.github.io/tags/javascript/</link>
-    <pubDate>Thu, 16 Jul 2026 00:00:00 &#43;0000</pubDate><author>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 &#43;0000</pubDate><author>
         <name>LinJing</name>
     </author><guid>http://linn-guo.github.io/tags/javascript/</guid>
     <description><![CDATA[]]></description>
 </item><item>
     <title>Machine Learning</title>
     <link>http://linn-guo.github.io/tags/machine-learning/</link>
-    <pubDate>Thu, 16 Jul 2026 00:00:00 &#43;0000</pubDate><author>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 &#43;0000</pubDate><author>
         <name>LinJing</name>
     </author><guid>http://linn-guo.github.io/tags/machine-learning/</guid>
     <description><![CDATA[]]></description>
 </item><item>
+    <title>Teachable Machine</title>
+    <link>http://linn-guo.github.io/tags/teachable-machine/</link>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 &#43;0000</pubDate><author>
+        <name>LinJing</name>
+    </author><guid>http://linn-guo.github.io/tags/teachable-machine/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
     <title>Tensorflow-Js</title>
     <link>http://linn-guo.github.io/tags/tensorflow-js/</link>
-    <pubDate>Thu, 16 Jul 2026 00:00:00 &#43;0000</pubDate><author>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 &#43;0000</pubDate><author>
         <name>LinJing</name>
     </author><guid>http://linn-guo.github.io/tags/tensorflow-js/</guid>
     <description><![CDATA[]]></description>
@@ -66,13 +73,6 @@
     <pubDate>Fri, 26 Sep 2025 13:37:25 &#43;0800</pubDate><author>
         <name>LinJing</name>
     </author><guid>http://linn-guo.github.io/tags/big-kids/</guid>
-    <description><![CDATA[]]></description>
-</item><item>
-    <title>Limits</title>
-    <link>http://linn-guo.github.io/tags/limits/</link>
-    <pubDate>Fri, 26 Sep 2025 13:37:25 &#43;0800</pubDate><author>
-        <name>LinJing</name>
-    </author><guid>http://linn-guo.github.io/tags/limits/</guid>
     <description><![CDATA[]]></description>
 </item></channel>
 </rss>
